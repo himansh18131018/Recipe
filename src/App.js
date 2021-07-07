@@ -3,8 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import Recipe from './Recipe';
 const App=()=>{
-  const APP_ID="4460154a";
-  const APP_KEY="427dedde8eea1b788c130d4df12e55d7";
+  const APP_ID="";
+  const APP_KEY="";
 
   const [recipes,setRecipes]=useState([]);
   const [search,setSearch]=useState('');
